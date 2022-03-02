@@ -113,8 +113,8 @@ body {
 }
 
 .bulb {
-  width: 50px;
-  height: 50px;
+  width: 200px;
+  height: 200px;
   margin: auto;
   background-repeat: no-repeat no-repeat;
   background-position: center 0px;
@@ -1287,7 +1287,7 @@ audio {
 }
 .message p {
   font-family: "Signika", sans-serif;
-  font-size: 30px;
+  font-size: 50px;
   text-transform: uppercase;
   color: #c4515c;
   text-shadow: 2px 2px 2px #fff;
