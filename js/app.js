@@ -16,7 +16,7 @@ particlesJS('particles-js',
   {
     "particles": {
       "number": {
-        "value": 120,
+        "value": 100,
         "density": {
           "enable": true,
           "value_area": 800
@@ -35,9 +35,9 @@ particlesJS('particles-js',
           "nb_sides": 5
         },
         "image": {
-          "src": "img/book.png",
-          "width": 200,
-          "height": 200
+          "src": "img/safeer1.png",
+          "width": 300,
+          "height": 300
         }
       },
       "opacity": {
